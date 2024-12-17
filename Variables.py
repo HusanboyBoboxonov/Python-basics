@@ -35,7 +35,7 @@ y = 19
 
 #help() keyin keywords quydagi so'zlar o'zgaruvchi sifatida foydalanmaslik kerak.
 
-  #Amalyiot
+"""Amalyiot"""
 # Quyidagi mashqlarni bajaring:
 
 # "Hello World!" matnini yangi o'zgaruvchiga yuklang va print() yordamida konsolga chiqaring
