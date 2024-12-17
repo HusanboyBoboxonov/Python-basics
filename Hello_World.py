@@ -1,3 +1,3 @@
 """02-dars:Hello World.
-Boboxonov Husanboy"""
+ Boboxonov Husanboy"""
 print("Hello World")
