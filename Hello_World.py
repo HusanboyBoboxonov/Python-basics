@@ -1,2 +1,2 @@
-"""01-dars:Hello World`"""
+"""02-dars:Hello World`"""
 print("Hello World")
