@@ -1,2 +1,3 @@
-"""02-dars:Hello World`"""
+"""02-dars:Hello World.
+Boboxonov Husanboy"""
 print("Hello World")
