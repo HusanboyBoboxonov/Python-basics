@@ -1,4 +1,5 @@
-#05-dars:STRING(MATIN)
+"""05-dars:STRING(MATIN).
+Boboxonov Husanboy"""
 
 ism = "Husanboy"
 
