@@ -1,4 +1,5 @@
-#04-dars: O'zgaruvchilar
+"""04-dars: O'zgaruvchilar.
+Boboxonov Husanboy"""
 
 ism = "Husanboy"
 yosh = 19
