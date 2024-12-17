@@ -61,7 +61,7 @@ print("Men " + meva + " yaxshi ko'raman")
 # ism6 = input("Isminigizni kiriting?\n>>")
 # print("Assalom alekum," + ism6.title())
 
-#AMALYIOT
+"""AMALYIOT"""
 
 # Quyidagi o'zgaruvchilarni yarating:
 # kocha="Bog'bon"
