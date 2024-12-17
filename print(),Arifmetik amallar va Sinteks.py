@@ -1,5 +1,5 @@
 """03-dars PRINT() funksiyasi.
- Boboxonov Husanboy"""
+  Boboxonov Husanboy"""
 
 # Quydagi kod Hello World gapni konsilga chiqaradi
 print("Hello World") #izox
@@ -35,7 +35,7 @@ print(2**4)#Kvadirat 2ni 4chisi bo'ladi 16.
 print("To'qqiznig kvadirati", 9**2, "ga teng")
 print("3*3=", 3*3)
 
-        #Amaliyot
+"""Amaliyot"""
 
 #"Quyidagi matnni aynan shunday ko'rinishda konsolda chiqaring:
 # "Nexia", "Tico", 'Damas' ko'rganlar qilar havas"
