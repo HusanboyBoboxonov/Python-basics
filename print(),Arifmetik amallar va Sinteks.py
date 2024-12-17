@@ -1,5 +1,5 @@
-# 03-dars PRINT() funksiyasi
-# Boboxonov Husanboy
+"""03-dars PRINT() funksiyasi.
+ Boboxonov Husanboy"""
 
 # Quydagi kod Hello World gapni konsilga chiqaradi
 print("Hello World") #izox
