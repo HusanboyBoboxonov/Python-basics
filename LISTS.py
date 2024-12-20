@@ -159,6 +159,8 @@ taomlar.append('kavib')
 print(taomlar)#Natija:['manti', 'somsa', 'baliq', "sho'rva", 'palov', 'shashlik', 'kavib']
 print(nonushta)#Natija:['manti', 'somsa', 'baliq', "sho'rva", 'palov']
 
+# Yuqoridagi nonushta ro'yxatini o'zgarmas ro'yxatga aylantiring va nonushta[0] = "qaymoq va non" deb qiymat berib ko'ring.
+
 nonushta = tuple(nonushta)
 nonushta.append("qaymoq va non")
 print(nonushta)
