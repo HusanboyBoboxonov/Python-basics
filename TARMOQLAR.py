@@ -1,4 +1,4 @@
-"""09-dars:TARMOQLAR.
+"""10-dars:TARMOQLAR.
  Boboxonov Husanboy"""
 
 avtolar = ['audi', 'bmw', 'volvo', 'kia', 'hyundai']
