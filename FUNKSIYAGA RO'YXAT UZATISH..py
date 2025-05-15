@@ -2,6 +2,7 @@
 Boboxonov Husanboy"""
 
 
+
 def bahola(ismlar):
     baholar = {}
     while ismlar:

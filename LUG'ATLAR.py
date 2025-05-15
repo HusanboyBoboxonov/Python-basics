@@ -1,6 +1,3 @@
-"""15-dars:Lug'atlar bilan ishlash.
-Boboxonov Husanboy"""
-
 talaba_0 = {
     'ism': 'husanboy',
     'familyasi': 'boboxonov',
